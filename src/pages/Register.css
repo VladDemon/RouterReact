@@ -1,0 +1,13 @@
+.Register{
+    height: 60vh;
+    margin: 10vh auto ;
+    width: 35vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}

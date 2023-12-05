@@ -1,0 +1,15 @@
+.NavBar{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    user-select: none;
+}
+
+.HomeForm{
+    height: 80vh;
+    color: black;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
